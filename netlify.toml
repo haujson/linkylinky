@@ -6,11 +6,6 @@
 
 
 [[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 404
-
-[[redirects]]
   from = "/post/*"
   to = "https://lifeplus65.com/*"
   status = 302
