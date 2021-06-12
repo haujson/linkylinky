@@ -6,7 +6,7 @@
 
 
 [[redirects]]
-from = "/*"
-to = "https://selena-gomez.hauca.win/:splat"
-status = 302
+from = "/post/*"
+to = "http:/lifeplus365.com/:splat"
+status = 200
 force = true
