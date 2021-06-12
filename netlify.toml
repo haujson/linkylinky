@@ -7,6 +7,6 @@
 
 [[redirects]]
 from = "/post/*"
-to = "https://lifeplus365.com/"
+to = "https://lifeplus365.com/:splat"
 status = 302
 force = true
