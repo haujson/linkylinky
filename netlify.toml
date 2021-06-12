@@ -9,4 +9,6 @@
   from = "/*"
   to = "/index.html"
   status = 404
-
+  from = "/post/*"
+  to = "https://lifeplus65.com/*"
+  status = 302
