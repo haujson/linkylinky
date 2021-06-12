@@ -6,6 +6,7 @@
 
 
 [[redirects]]
-  from = "/post/*"
-  to = "https://lifeplus65.com/*"
-  status = 302
+from = "/post/*"
+to = "https://lifeplus365.com/*"
+status = 302
+force = true
